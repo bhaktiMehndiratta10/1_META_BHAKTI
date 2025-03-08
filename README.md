@@ -1,4 +1,4 @@
-# BASIC NFT MINTING SCRIPT 
+# NFT MINTING SCRIPT 
 
 This program demonstrates the creation, storage, and listing of NFT metadata using functions, objects, and arrays. It simulates minting NFTs, storing their metadata, and then listing their details.
 
